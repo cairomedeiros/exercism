@@ -1,6 +1,17 @@
 # Annalyn's Infiltration
 <a href="https://exercism.org/tracks/go/exercises/annalyns-infiltration">Click to go to the exercise with instructions</a>
 
+## Annotations
+#### Booleans
+- Booleans are represented by the type bool
+
+#### Logical Operators
+- #### ```&&``` is true if both statements are true
+
+- #### ```||``` is true if at least one is true
+
+- #### ```!``` is true only if the statement is false
+
 ## My Solution
 
 ````
