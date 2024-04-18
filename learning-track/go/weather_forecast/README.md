@@ -1,6 +1,10 @@
 # Weather Forecast
+<a href="https://exercism.org/tracks/go/exercises/weather-forecast">Click here to go to the exercise with instructions</a>
 
 ## Annotations
+
+#### Comments
+- We should write comments very clear starting with the name of the thing just like "// Package x " and finish with a period.
 
 ## My Solution
 ```
