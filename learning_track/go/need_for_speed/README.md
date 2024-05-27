@@ -2,7 +2,7 @@
 <a href="https://exercism.org/tracks/go/exercises/need-for-speed">Click here to go to the exercise with instructions</a>
 
 ## Annotations
-- In go we have a struct, similar to a constructor
+- In go, we have a struct that are similar to classes but inheritance is not supported
 - Defining a struct:
 ````
 type Car struct {
